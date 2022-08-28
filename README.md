@@ -1,3 +1,8 @@
+# Pequeno projeto de faculdade, onde o objetivo é ensinar crianças e adolecentes a logica de programação.
+
+
+
+
 # "Sedna" One Page Website Template
 
 "Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
